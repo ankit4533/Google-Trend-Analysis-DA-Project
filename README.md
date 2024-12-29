@@ -61,6 +61,4 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 - **Name**: Ankit Chaudhari
 - **Email**: ankitchaudhari4501@gmail.com
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
  
