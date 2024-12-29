@@ -63,6 +63,4 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-*Note: This project is part of a data analysis portfolio demonstrating skills in data visualization, API integration, and trend analysis.*
+ 
